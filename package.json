@@ -1,0 +1,25 @@
+{
+  "name": "personalwebsite",
+  "version": "0.1.0",
+  "main": "app.js",
+  "private": "true",
+  "dependencies": {
+    "express": "3.0.x",
+    "logfmt": "~0.18.1"
+  },
+  "description": "Personal-Website ================",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dchang16/Personal-Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dchang16/Personal-Website/issues"
+  },
+  "homepage": "https://github.com/dchang16/Personal-Website#readme"
+}
